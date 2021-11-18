@@ -1,15 +1,12 @@
-@import "~bootstrap/scss/bootstrap.scss";
-
-
-  .counter{
+.counter{
     background-color: black;
     color: white;
     padding: 3rem;
     margin:3rem;
-    font-size: 4rem;
+    font-size: 36px;
 };
 .counterBox{
-    background-color: rgb(20, 20, 20);
+    background-color: rgb(46, 44, 44);
     margin: 1px white solid;
     
 };
